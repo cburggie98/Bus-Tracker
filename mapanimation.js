@@ -1,4 +1,4 @@
-mapboxgl.accessToken = 'pk.eyJ1IjoiY2J1cmdnaWU5OCIsImEiOiJjbHA3aGVlbWYwNG8xMmp1am1qNDdmZnJjIn0.zuWyOYdfzb6SVbHZP6m1mw'
+mapboxgl.accessToken = 'Your API Key'
 
 var map = new mapboxgl.Map({
   container:'map',
